@@ -280,6 +280,10 @@ If you really want to build charts from the ground up yourself, there is no way 
 * [visx](https://github.com/airbnb/visx)
   * leaning more towards low-level D3 than high-level abstraction
   * steeper learning curve
+* [DHTMLX React Gantt chart](https://dhtmlx.com/docs/products/dhtmlxGantt-for-React/)
+  * advanced feature set for managing projects: auto-scheduling, resource management, critical path)
+  * easy customization with React components
+  * high performance (renders 30,000+ tasks in milliseconds)
 * more off the shelf charts, more difficult to customize
   * [Victory](https://formidable.com/open-source/victory/)
   * [nivo](https://nivo.rocks/)
